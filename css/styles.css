@@ -1,0 +1,52 @@
+.bg-gray{
+    background-color: rgba(212, 39, 39, 0.5);
+}
+
+.bg-footer{
+    background-color: rgb(68, 67, 67);;
+}
+
+.logo{
+    width: 5em;
+    height: 5em;
+}
+
+.logoZV{
+    width: 11rem;
+    height: 5rem;
+    opacity: 0.7;
+}
+
+.white{
+
+    color: rgb(240, 240, 240, 0.9);
+
+}
+
+.liststyle {
+    list-style: none;   
+    padding: 0; 
+}
+
+.liststyle li {
+    margin-bottom: 10px;
+}
+
+
+.headingTitle{
+    font-weight: bold;
+    font-size: 3rem;
+    letter-spacing: -0.025em;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
+}
+
+.footer{
+    text-align: center;
+}
+
+.fullHeight {
+    min-height: 80vh;
+}
+
+
+
